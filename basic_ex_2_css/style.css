@@ -3,3 +3,10 @@ div {
 	margin:  5px;
 }
 
+h1 , input , img {
+	padding: 15px;
+}
+
+#third p {
+	font-size: 20px;
+}
