@@ -3,6 +3,16 @@ body {
 	font-family: Arial, sans-serif
 }
 
+#container {
+	display: flex;
+	flex-direction: row;
+}
+
+main {
+	width: 60%;
+	border: 3px solid green;
+}
+
 aside {
 	width: 40%;
 }
@@ -12,7 +22,7 @@ img {
 
 div {
 	border: 3px solid green;
-	margin-top: 5px;
+	margin: 5px;
 	padding: 6px;
 }
 
